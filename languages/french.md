@@ -8,7 +8,7 @@ Ce script permet de bannir les utilisateurs d'un serveur à partir d'un robot di
 
 ### Automatique
 
-- Lancer le start.cmd
+- Lancer le fichier de commande [start.cmd](start.cmd)
 
 ### Manuel
 
