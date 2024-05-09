@@ -8,7 +8,7 @@ This script allows you to ban users from a server from a discord bot that has pe
 
 ### Automatic
 
-- Start the start.cmd
+- Launch the command file [start.cmd](start.cmd)
 
 ### Manual
 
