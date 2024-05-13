@@ -20,4 +20,4 @@
 > - The author of this script is not responsible for any damages or legal issues that may arise from the use of this script.
 
 > [!IMPORTANT]
-> Ce programme est sous licence MIT. Veuillez consulter le fichier [LICENSE](LICENSE) pour plus d'informations.
+> This program is under [MIT LICENSE](LICENSE).
